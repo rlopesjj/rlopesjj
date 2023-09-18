@@ -48,11 +48,3 @@ I'm a Web Developer based in Paris!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rlopesjj_/)
 
 </div>
-
-
-<div align="center" style="display: inline_block">
-
-  ![Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=rlopesjj&show_icons=true&theme=vue-dark)
-
-</div>
-
