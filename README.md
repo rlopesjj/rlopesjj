@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm Renato Lopes</h1>
+<h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1>
 
 <p align="center">
-I'm a <strong>Web Developer</strong> based in Paris!
+I'm Renato Lopes, a <strong>Web Developer</strong> based in Paris!
 </p>
 
 <br><br><br>
